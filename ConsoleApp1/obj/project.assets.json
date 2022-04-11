@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\LL\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\Coding Test\\Coding Test\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\LL\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\Coding Test\\Coding Test\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Ismail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\LL\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Ismail\\OneDrive - Sheffield Hallam University\\Documents\\YEAR 2\\Coding Test\\Coding Test\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

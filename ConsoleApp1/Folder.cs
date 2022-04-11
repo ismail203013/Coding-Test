@@ -9,13 +9,17 @@ namespace ConsoleApp1
     {
         public string FolderName { get; set; }
 
-        public Folder folder { get; set; }
 
-        public Items item { get; set; }
+        List<Items> items = new List<Items>();
+
+
+        List<Folder> folders = new List<Folder>();
+
 
         public int FolderSize { get; set; }
 
         public DateTime FolderDateModified { get { return DateTime.Now; } }
+
 
     }
 }
