@@ -6,6 +6,7 @@ namespace ConsoleApp1.Tasks
 {
     public class Task : ITask
     {
+        //methods of the tasks that would be called, depending on the type of application 
         public List<Folder> folders { get; set; }
         public List<Items> items { get; set ; }
 

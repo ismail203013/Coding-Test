@@ -6,6 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // here i defined all the medthod that should be used for the application
+
            
              void addItem(Items item)
              {
@@ -24,7 +26,14 @@ namespace ConsoleApp1
 
             void TransferItem (Items item ,Folder folder)
             { 
+                //transfer the item to another folder
+            }
 
+            void SearchResult (Items item, Folder folder)
+            {
+                // take in user input and use it to sreach for anything that matchs in the list
+                // return the matchs 
+                // could do this using a foreach loop 
             }
 
 
